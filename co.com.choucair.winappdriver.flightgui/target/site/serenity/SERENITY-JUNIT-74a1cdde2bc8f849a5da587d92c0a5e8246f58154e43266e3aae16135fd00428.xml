@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="I as a user  want to see how the calculator works automatically" skipped="0" tests="1" time="16.03" timestamp="2020-06-22 02:56:38"><testcase name="buy an air ticket"><error message="Could not instantiate new WebDriver instance of type class io.appium.java_client.AppiumDriver (Unable to create a new remote session. Please check the server log for more details. Original error: Failed to locate opened application window with appId: C:/Windows/System32/calc.exe, and processId: 476 (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 9.90 seconds&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LAPTOP-U0LFOLUR', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'&#10;Driver info: driver.version: RemoteDriver&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LAPTOP-U0LFOLUR', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'&#10;Driver info: driver.version: RemoteDriver). See below for more details." type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate new WebDriver instance of type class io.appium.java_client.AppiumDriver (Unable to create a new remote session. Please check the server log for more details. Original error: Failed to locate opened application window with appId: C:/Windows/System32/calc.exe, and processId: 476 (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9.90 seconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-U0LFOLUR', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: driver.version: RemoteDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-U0LFOLUR', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: driver.version: RemoteDriver). See below for more details.</error><system-err>Could not instantiate new WebDriver instance of type class io.appium.java_client.AppiumDriver (Unable to create a new remote session. Please check the server log for more details. Original error: Failed to locate opened application window with appId: C:/Windows/System32/calc.exe, and processId: 476 (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9.90 seconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-U0LFOLUR', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: driver.version: RemoteDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-U0LFOLUR', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: driver.version: RemoteDriver). See below for more details.&#13;
+co.com.choucair.winappdriver.flightgui.stepdefinitions.flightGuiStepdefinitions.thanBrandonWantsToUseTheCalculatorApp(flightGuiStepdefinitions.java:17)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
